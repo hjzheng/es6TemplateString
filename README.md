@@ -3,7 +3,7 @@ ES6-Template-String
 
 使用ejs和multiline 实现ES6 Template String的功能
 
-#### ES6 Template String 支持的功能(目前已知firefox已经支持,Chrome马上会支持):
+#### ES6 Template String 支持的功能 
 
 ```javascript
 //Basic usage with an expression placeholder
@@ -27,6 +27,13 @@ string text line 2`);
 function fn() {return "result"}
 console.log(`foo ${fn()} bar`);
 ```
+
+#### 浏览器支持情况
+
+- firefox 34以上
+- Chrome [马上会支持][4]
+
+详见[ES6兼容表][3]
 
 #### 使用ejs和multiline的实现的es6TemplateString
 
@@ -68,8 +75,10 @@ foo ${= fn() } bar
 - nodejs
    - 参见 [test.js][0]
    
-#### 关于更多问题，大家可以参见ejs和multiline的readme文件
+#### 关于更多问题，大家可以参见ejs和multiline的README文件
    
 [0]:https://github.com/hjzheng/ES6-Template-String/blob/master/test.js
 [1]:https://github.com/sindresorhus/multiline
 [2]:https://github.com/tj/ejs
+[3]:https://kangax.github.io/compat-table/es6/
+[4]:https://twitter.com/addyosmani/status/541978036904554496?utm_source=javascriptweekly&utm_medium=email
