@@ -75,7 +75,7 @@ foo ${= fn() } bar
 - nodejs
    - 参见 [test.js][0]
    
-#### 关于更多问题，大家可以参见ejs和multiline的README文件
+#### 关于更多问题，大家可以参见[ejs][2]和[multiline][1]的README文件
    
 [0]:https://github.com/hjzheng/ES6-Template-String/blob/master/test.js
 [1]:https://github.com/sindresorhus/multiline
