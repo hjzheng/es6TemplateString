@@ -63,8 +63,13 @@ foo ${= fn() } bar
 #### 使用es6TemplateString
 
 - 浏览器
-   - 引入ejs和multiline
+   - 引入[ejs][2]和[multiline][1]
    - 引入es6TemplateString.js
 - nodejs
-   - 参见 test.js
+   - 参见 [test.js][0]
    
+#### 关于更多问题，大家可以参见ejs和multiline的readme文件
+   
+[0]:https://github.com/hjzheng/ES6-Template-String/blob/master/test.js
+[1]:https://github.com/sindresorhus/multiline
+[2]:https://github.com/tj/ejs
