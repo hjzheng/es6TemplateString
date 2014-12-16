@@ -1,15 +1,19 @@
 {
-  "name": "es6TemplateString",
-  "version": "0.0.0",
-  "description": "",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/hjzheng/es6TemplateString"
-  },
-  "dependencies": {
-    "multiline": "*",
-    "ejs": "*"
-  },
-  "author": "hjzheng",
-  "license": "MIT"
+    "name": "es6templatestring",
+    "version": "0.0.0",
+    "description": "",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/hjzheng/es6TemplateString"
+    },
+    "dependencies": {
+        "multiline": "*",
+        "ejs": "*"
+    },
+    "author": {
+        "name": "Hao Ju Zheng",
+        "email": "zhenghaoju700@163.com",
+        "url": "https://github.com/hjzheng"
+    },
+    "license": "MIT"
 }

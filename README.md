@@ -73,6 +73,8 @@ foo ${= fn() } bar
    - 引入[ejs][2]和[multiline][1]
    - 引入es6TemplateString.js
 - nodejs
+   - ```npm install es6templatestring```
+   - ```var es6TemplateString = require('es6templatestring');```
    - 参见 [test.js][0]
    
 #### 关于更多问题，大家可以参见[ejs][2]和[multiline][1]的README文件
