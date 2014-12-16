@@ -1,10 +1,10 @@
 {
-  "name": "ES6-Template-String",
+  "name": "es6TemplateString",
   "version": "0.0.0",
   "description": "",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hjzheng/ES6-Template-String"
+    "url": "git://github.com/hjzheng/es6TemplateString"
   },
   "dependencies": {
     "multiline": "*",

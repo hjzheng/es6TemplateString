@@ -1,4 +1,4 @@
-ES6-Template-String
+es6TemplateString
 ===================
 
 使用ejs和multiline 实现ES6 Template String的功能
