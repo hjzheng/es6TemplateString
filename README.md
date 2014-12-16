@@ -30,7 +30,7 @@ console.log(`foo ${fn()} bar`);
 
 #### 浏览器支持情况
 
-- firefox 34以上
+- firefox 34及其以上版本
 - Chrome [马上会支持][4]
 
 详见[ES6兼容表][3]
